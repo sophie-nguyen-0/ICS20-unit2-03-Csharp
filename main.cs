@@ -21,7 +21,7 @@ class Program
         streetName = Console.ReadLine();
 
         Console.WriteLine("");
-        Console.WriteLine("Your street address is: " +  streetNumber + " " +streetName + ".");
+        Console.WriteLine("Your street address is: " + streetNumber + " " + streetName + ".");
         Console.WriteLine("run while you still can.");
 
         Console.WriteLine("\nDone.");
