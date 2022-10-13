@@ -7,11 +7,11 @@ using System;
 
 class Program
 {
-    public static void Main (string[] args)
+    public static void Main(string[] args)
     {
         int streetNumber;
         string streetName;
-      
+
         Console.WriteLine("This program gets a user's address");
         Console.WriteLine("");
 
